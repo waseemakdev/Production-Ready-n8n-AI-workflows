@@ -1,0 +1,6 @@
+This is Real Estate Property Recommend system wehre it'll handle customer queries about property searching, property viewing and follow up messages.
+These are main business point of this workflow:
+1. Recommendations Properties to Customers on behalf of their searching.
+2. After selecting property confirm the meeting time and date with lead.
+3. When date & time is selected it'll ask for follow-up message for sending the details on their selected platform like whatsapp, text,email, or call.
+4. After all these details on the day of meeting. This system is automatically send follow-up message to lead on the selected day of meeting.  
